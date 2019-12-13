@@ -1,2 +1,6 @@
 # progetto A
- progetto a che serve per a
+ Progetto tarato sulla base del qlo
+ In principio è nagio
+## wella
+Attipo cosa?
+ 
